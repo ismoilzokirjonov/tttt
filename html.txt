@@ -1,0 +1,47 @@
+<h1> - saarlovha tegi size boiycha vazifani bajaradi 
+<p> - paragrf kop textlar bn iwlaw
+<b> - bolt harflarni bortirib beradi
+<strong> - bolt bilan bir hil
+<mark> - sozlarni boyab qoyish
+<u> - yani underline pastki chizish
+<hr> - garizontal chizish 
+<del> - yozuvni ustiga chizish
+<sup> va <sub> - sup(daraja) sub(index)
+<i> - italic 
+<a href=""> - bir sahifadan bowqasiga otish
+mailto -
+tel - telfon raqam uchun
+mailto - email adress lar bilan ishlash
+img- rasm lar bilan ishlash
+<ul> - un oredered list tartiblanmagan royhatlar
+div - bir neca tegni guruhlab berish
+<span> - tegi sozlarni bir qator yonma yon yozish uchun
+<iframe> - biror saytdan vidolarni olish yoki bowqa vidolarni qoyishh
+<br> - enter tawaw  
+-----
+
+Tags
+<main>
+<header>
+<footer>
+<section>
+<nav> 
+
+-----
+<blockquote> sitatlarni yozish 
+<span> inline element yonidan yoizib ketish
+iframe - silka orqali vidio qoyish
+
+----
+form tags 
+type text
+type password 
+type email
+type number
+type date
+type color
+type range
+----
+<section> 
+
+<textarea> katta textlar bn iwlaw uchun
